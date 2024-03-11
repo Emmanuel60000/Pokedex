@@ -148,7 +148,7 @@ const PokemonDetailsPage: React.FC = () => {
         </div>
       </section>
       <div>
-        <h3 className="text-center mt-8 text-red-300">Cliquez sur l'image</h3>
+        <h3 className="text-center mt-8 text-red-300">Cliquez sur l image</h3>
       </div>
     </body>
   );

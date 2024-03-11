@@ -201,8 +201,8 @@
 }
 
 .back-face {
-  background-image: url('/poke2.jpg');
-  /* background-size: cover; */
+  background-image: url('/img1.avif');
+  background-size: cover;
   display: flex;
   flex-direction: column;
   align-items: center;
